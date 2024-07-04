@@ -2,4 +2,5 @@ bogota
 paris
 francia
 rumania
-
+colombia
+mexico
